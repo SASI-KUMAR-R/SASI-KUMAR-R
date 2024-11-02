@@ -19,7 +19,8 @@ Student @ St. Joseph's Institute Of Technology.
 ### 💻 Opearating System's
 <img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sasikumar_rr?theme=wtf&font=Asap%20Condensed&extension=activity)](https://leetcode.com/sasikumar_rr)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/sasikumar_rr?theme=dark&font=Asap%20Condensed)](https://leetcode.com/sasikumar_rr)
+
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
