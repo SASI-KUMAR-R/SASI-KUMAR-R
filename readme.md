@@ -11,7 +11,8 @@ Student @ St. Joseph's Institute Of Technology.
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Qiskit-Logo.svg/1024px-Qiskit-Logo.svg.png" />
+<img height="50" width="50" src="https://qiskit.org/documentation/_static/qiskit-logo.png" />
+
 
 
 ### IDE and Tools I Use
