@@ -6,8 +6,7 @@ Student @ St. Joseph's Institute Of Technology.
 - 👯 I’m looking to collaborate on Qiskit SDK
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sasikumar670/)
-<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rsasikumar670@gmail.com)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sasikumar670/)<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rsasikumar670@gmail.com)
 - 🦇 Pronouns: Crack-Jack / The Batman
 
 ### Code Language
