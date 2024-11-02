@@ -3,8 +3,7 @@
 Student @ St. Joseph's Institute Of Technology.
 - 🔭 Here's my [resume](https://drive.google.com/file/d/1BH2CtjX4KfcHJP0km3W0JGWSHE9bYJG3/view?usp=drive_link)         
 - ⚛  I know the basic's of Quantum Computing
-- 👯 I’m looking to collaborate on Qiskit SDK ![Batman Coding in the Dark](https://i.imgur.com/3u5Q5xN.jpg)
-
+- 👯 I’m looking to collaborate on Qiskit SDK 
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sasikumar670/)<br /> [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:rsasikumar670@gmail.com)
