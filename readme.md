@@ -21,8 +21,7 @@ Student @ St. Joseph's Institute Of Technology.
 
 ### Leet_Code Static's
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sasikumar_rr?theme=dark&font=Asap%20Condensed)](https://leetcode.com/sasikumar_rr)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/sasikumar_rr?ext=contest&theme=dark)](https://leetcode.com/sasikumar_rr)
 
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 
 [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
