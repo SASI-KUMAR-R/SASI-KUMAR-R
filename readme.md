@@ -19,6 +19,7 @@ Student @ St. Joseph's Institute Of Technology.
 ### 💻 Opearating System's
 <img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
+### Leet_Code Static's
 [![LeetCode Stats](https://leetcard.jacoblin.cool/sasikumar_rr?theme=dark&font=Asap%20Condensed)](https://leetcode.com/sasikumar_rr)
 
 
