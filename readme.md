@@ -1,16 +1,13 @@
 ## Hello!🙂 This is "SasiKumar R"
 
 Student @ St. Joseph's Institute Of Technology.
-- 🔭 Here's my [resume](https://drive.google.com/file/d/1BH2CtjX4KfcHJP0km3W0JGWSHE9bYJG3/view?usp=drive_link)                                                 
-- 🌱 I’m currently learning DSA
+- 🔭 Here's my [resume](https://drive.google.com/file/d/1BH2CtjX4KfcHJP0km3W0JGWSHE9bYJG3/view?usp=drive_link)         
+- ⚛  I know the basic's of Quantum Computing
 - 👯 I’m looking to collaborate on Qiskit SDK
-- ⚛  I'm 
+- 🌱 I’m currently learning DSA
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sasikumar670/)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I know Japanese.
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
+- 🦇 Pronouns: Crack-Jack / The Batman
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
