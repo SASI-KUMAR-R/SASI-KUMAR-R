@@ -9,10 +9,10 @@ Student @ St. Joseph's Institute Of Technology.
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sasikumar670/)
 - 🦇 Pronouns: Crack-Jack / The Batman
 
-### I code in
+### Code Language
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 
-### IDE and Tools I Use
+### Tools and Platform
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" />
 <img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo"/>
 
