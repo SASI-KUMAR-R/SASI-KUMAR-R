@@ -3,9 +3,10 @@
 Student @ St. Joseph's Institute Of Technology.
 - 🔭 Here's my [resume](https://drive.google.com/file/d/1BH2CtjX4KfcHJP0km3W0JGWSHE9bYJG3/view?usp=drive_link)                                                 
 - 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on Quantum-SDK / Qiskit
+- 👯 I’m looking to collaborate on Qiskit SDK
+- ⚛  I'm 
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sasikumar670/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 - ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
