@@ -20,8 +20,8 @@ Student @ St. Joseph's Institute Of Technology.
 <img height="30" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/><img height="30" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
 ### Leet_Code Static's
-[![LeetCode Stats](https://leetcard.jacoblin.cool/sasikumar_rr?theme=dark&font=Asap%20Condensed)](https://leetcode.com/sasikumar_rr)
 [![Leetcode Stats](https://leetcard.jacoblin.cool/sasikumar_rr?ext=contest&theme=dark)](https://leetcode.com/sasikumar_rr)
+
 
 
 [![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
