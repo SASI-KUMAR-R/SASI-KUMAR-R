@@ -1,7 +1,7 @@
 ## Hello!🙂 This is "SasiKumar R"
 
 Student @ St. Joseph's Institute Of Technology.
-- 🔭 Here's my [resume](https://drive.google.com/file/d/1BH2CtjX4KfcHJP0km3W0JGWSHE9bYJG3/view?usp=drive_link)         
+- 🔭 Here's my [resume]([https://drive.google.com/file/d/1BH2CtjX4KfcHJP0km3W0JGWSHE9bYJG3/view?usp=drive_link](https://drive.google.com/file/d/1bTYFcPmRWRSY47dBSms73HedZvddfaE3/view?usp=sharing))         
 - ⚛  I know the basic's of Quantum Computing.
 - 👯 I’m looking to collaborate on Qiskit SDK.
 - 💻 I'm currently learning Full_Stack.
