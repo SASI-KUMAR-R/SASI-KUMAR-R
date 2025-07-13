@@ -42,8 +42,6 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="50"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" width="50"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="50"/>
-  <img src="https://img.icons8.com/officel/80/react.png" width="50"/>
 </div>
 
 ---
@@ -70,7 +68,6 @@
   <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="60"/>
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="GitHub" width="60"/>
 </div>
 
 ---
